@@ -1,10 +1,10 @@
 Hello
 
 This is just a small page made for updating people on projects We at Project_DreaM are working on
-(yes, only one github user is a part,  however multiple  users are currently using that one account)
+(yes, only one github user is a part,  however multiple  users are currently using that one account).
 
 This is completely useless to anyone who isn't actively benefitting from our work, so if you don't get anything from what we're doing, just wait.
-We'll get to you soon
+We'll get to you soon.
 
 Our current project is a way to bypass some of the website security blocks our current test school,[REDACTED], has set up in an attempt to deter students from playing on school devices(or even personal devices, as most schools have a wifi-based filter AND a device filter).
 
